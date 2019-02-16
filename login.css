@@ -1,0 +1,19 @@
+#bg
+{
+
+    background-image: url("hrbackground.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+input[type=text], input[type=password] 
+{
+	padding: 4px;
+	border: none;
+	background: #f1f1f1;	
+	font-family: Century; 
+	width: 100%;
+}
+

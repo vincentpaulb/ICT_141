@@ -1,0 +1,16 @@
+a
+{
+	font-family: Century;
+	font-size: 15px;
+	color: black;
+}
+
+#bg
+{
+
+    background-image: url("hrbackground.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
